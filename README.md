@@ -1,8 +1,8 @@
-# Xoreos-Batch-Actions-XBA-for-K1-TSL
+# Xoreos' Batch Actions [XBA] for K1/TSL
 
 Various actions to complement @DrMcCoy's [Xoreos Tools](https://xoreos.org/downloads/index.html) -- compiled on a batch script that worked and tested with Windows 10.
 
-It currently limited only with several actions, such as --
+It currently limited only to several actions, such as --
 
 - 1   : GFF to XML -- K1
 - 2   : TLK to XML -- K1
