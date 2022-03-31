@@ -26,8 +26,8 @@ echo.
 echo 7: XML to GFF -- K1/TSL
 echo 8: XML to TLK -- K1/TSL
 echo.
-echo 9: SFF to XML -- K1/TSL [Defunct]
-echo 10: XML to SFF -- K1/TSL [Defunct]
+echo 9: SFF to XML -- K1/TSL [redundant]
+echo 10: XML to SFF -- K1/TSL [redundant]
 echo.
 echo 11: Convert2DA -- K1/TSL
 echo.
