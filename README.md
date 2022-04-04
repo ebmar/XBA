@@ -1,24 +1,22 @@
 # Xoreos' Batch Actions [XBA] for K1/TSL
 
-### Various actions to complement @DrMcCoy's [Xoreos Tools](https://xoreos.org/downloads/index.html) -- compiled on a batch script that worked and tested with Windows 10.
+Various actions to complement @DrMcCoy's [Xoreos Tools](https://xoreos.org/downloads/index.html) -- compiled on a batch script that worked and tested with Windows 10.
 
-It currently limited only to several actions, such as :
+It currently limited only to several actions for both version of the game, such as :
 
-1.  `GFF to XML` -- K1
-2.  `TLK to XML` -- K1
-3.  `NCS to NSS` -- K1 [bytecodes]
-4.  `GFF to XML` -- TSL
-5.  `TLK to XML` -- TSL
-6.  `NCS to NSS` -- TSL [bytecodes]
-7.  `XML to GFF` -- K1/TSL
-8.  `XML to TLK` -- K1/TSL
-9.  `Convert2DA` -- K1/TSL (requires [convert2da](https://web.archive.org/web/20101129192005/http://starwarsknights.com/mtools/Convert2da.rar))
-10. `Remove game-ID [-KRem]` (to remove the game-version-placeholder prefix)
+1.  `GFF to XML`
+2.  `TLK to XML`
+3.  `NCS to NSS` [bytecode]
+7.  `XML to GFF`
+8.  `XML to TLK`
+9.  `Convert2DA` (requires [convert2da](https://web.archive.org/web/20101129192005/http://starwarsknights.com/mtools/Convert2da.rar))
+10. `Remove game version prefixes [skips XMLs]`
 
 -- and requires to executed under the same folder with the tools.
 
 **P.S.** Both `SFF to XML` & `XML to SFF` functions are currently redundant, as the binary didn't seem to work as intended.
 
+### Credits --
 ```
 :: Xoreos' Batch Actions [XBA] for K1/TSL
 :: Version        : 1.1.0 [April 01, 2022]
